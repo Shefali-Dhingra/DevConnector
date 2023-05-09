@@ -1,0 +1,5 @@
+-express is used to get the methods get, put etc
+-routes are used to decongest the app
+- it basically is used intead of using app.get / app.put etc
+everytime we just define seperate routes for every api we need
+and we use app.use instead to access them
